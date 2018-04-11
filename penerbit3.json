@@ -1,0 +1,74 @@
+{
+	"penerbit":[
+		{
+			"id_penerbit":"001",
+			"nama_penerbit":"elexmedia komputindo",
+			"kota" : "jakarta",
+			"buku" :[
+				{
+					"id_buku":"B001",
+					"Judul_buku":"Pemrograman Web",
+					"pengarang":[
+						{
+							"id_pengarang":"PM01",
+							"nama_pengarang":"Joni"
+						},
+						{
+							"id_pengarang":"PM02",
+							"nama_pengarang":"Purnama"
+						}
+					]
+				},
+				{
+					"id_buku":"B002",
+					"Judul_buku":"Database Manajemen System",
+					"pengarang":[
+						{
+							"id_pengarang":"PM03",
+							"nama_pengarang":"Marman"
+						},
+						{
+							"id_pengarang":"PM044",
+							"nama_pengarang":"Haidar"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id_penerbit":"002",
+			"nama_penerbit":"Wahana",
+			"kota" : "Semarang",
+			"buku" :[
+				{
+					"id_buku":"BW001",
+					"Judul_buku":"Pemrograman Terstruktur",
+					"pengarang":[
+						{
+							"id_pengarang":"PM01",
+							"nama_pengarang":"Joni"
+						},
+						{
+							"id_pengarang":"PM02",
+							"nama_pengarang":"Purnama"
+						}
+					]
+				},
+				{
+					"id_buku":"B002",
+					"Judul_buku":"Jaringan Komputer",
+					"pengarang":[
+						{
+							"id_pengarang":"PM01",
+							"nama_pengarang":"Joni"
+						},
+						{
+							"id_pengarang":"PM02",
+							"nama_pengarang":"Purnama"
+						}
+					]
+				}
+			]
+		}
+	]
+}
